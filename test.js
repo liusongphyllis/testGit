@@ -2,7 +2,7 @@
     var p = m;
     for(var i = 0;i <10; i++){
      llll
-     m++;
+     m++; dusduud;
      p++;
    }
     
